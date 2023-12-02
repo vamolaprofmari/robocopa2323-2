@@ -42,3 +42,9 @@ function video4(){
   $(".modal-body").html("<video class='model-vid' controls><source src='jr/1.mp4' type='video/mp4'></source></video>");
   $("#myModal").modal(); 
 }
+
+function video5(){
+ 
+  $(".modal-body").html("<video class='model-vid' controls><source src='nofull.mp4' type='video/mp4'></source></video>");
+  $("#myModal").modal(); 
+}
