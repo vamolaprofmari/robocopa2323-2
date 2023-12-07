@@ -17,3 +17,11 @@ function OneNL(){
 function CT(){
     location = "CT.html";
 }
+
+function palavras(){
+    location = "palavras.html";
+}
+
+function full(){
+    location = "full.html";
+}
